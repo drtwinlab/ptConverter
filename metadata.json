@@ -1,0 +1,5 @@
+{
+  "name": "Copy of WorkDay - Hour to PT Converter",
+  "description": "A sleek and efficient utility to convert working hours into Person-Days (PT), based on a standard 8-hour workday, with real-time calculations and visual breakdowns.",
+  "requestFramePermissions": []
+}
